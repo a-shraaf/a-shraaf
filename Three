@@ -1,0 +1,10 @@
+#include <stdio.h>
+main ()
+{
+float length, width, multiply;
+length = 5.5;
+width = 3.5;
+multiply = length * width;
+printf("the area will be : %f", multiply);
+return 0;
+} 
